@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anomaly Detection Model Evaluation"
 title_separator          : "-"
-name                     : &name "Jia He"
+name                     : &name "Jia"
 description              : &description "personal description"
 url                      : https://jiahe-yogurt.github.io/JiaHeyogurt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
