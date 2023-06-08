@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "GETTING STARTED"
+permalink: /getting-started/
 author_profile: true
 ---
 
