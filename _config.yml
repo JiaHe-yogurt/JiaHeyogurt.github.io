@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anomaly Detection Models Evaluation"
+title                    : "Anomaly Detection Model Evaluation"
 title_separator          : "-"
 name                     : &name "Jia He"
 description              : &description "personal description"
