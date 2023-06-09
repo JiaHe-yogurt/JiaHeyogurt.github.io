@@ -11,6 +11,7 @@ Introduction
 ## Point Wise
 
 ### Unadjusted
+[Point wise unadjusted](https://en.wikipedia.org/wiki/Precision_and_recall_)
 
 ### Adjusted
 
