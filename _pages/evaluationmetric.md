@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "GETTING STARTED"
-permalink: /getting-started/
+title: "Evaluation Metrics"
+permalink: /evaluationmetric/
 author_profile: true
 ---
 
