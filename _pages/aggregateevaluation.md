@@ -1,6 +1,6 @@
 ---
-permalink: /evaluationmetric/
-title: "Evaluation Metrics"
+permalink: /aggregateevaluation/
+title: "Aggregate Evaluation"
 author_profile: true
 redirect_from: 
   - /md/
