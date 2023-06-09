@@ -7,10 +7,10 @@ main:
     url: /evaluationmetric/
     
   - title: "AGGREGATE EVALUATION"
-    url: /markdown/
+    url: /aggregateevaluation/
 
   - title: "ROOT CAUSE ANALYSIS"
-    url: /cv/
+    url: /rootcauseanalysis/
     
   - title: "AGGREGATE EVALUATION"
     url: /cv/
