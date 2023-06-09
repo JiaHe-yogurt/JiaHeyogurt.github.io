@@ -12,9 +12,9 @@ main:
   - title: "ROOT CAUSE ANALYSIS"
     url: /rootcauseanalysis/
     
-  - title: "AGGREGATE EVALUATION"
+  - title: "CV"
     url: /cv/
     
-  - title: "API DOCUMENTATION"
-    url: /apidocumentation/
+  - title: "Guide"
+    url: /markdown/
 
