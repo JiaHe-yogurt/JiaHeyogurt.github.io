@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /evaluationmetric/
 title: "Evaluation Metrics"
 author_profile: true
 redirect_from: 
