@@ -53,6 +53,6 @@ How to edit your site's GitHub repository
 ------
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/pwfig.png)
 
 
