@@ -3,8 +3,8 @@ main:
   - title: "GETTING STARTED"
     url: /getting-started/
 
-  - title: "EVALUATION METRICS"
-    url: /aggregateevaluation/    
+  - title: "Guide"
+    url: /markdown/
 
 #  - title: "ROOT CAUSE ANALYSIS"
 #    url: /root-cause-analysis/    
