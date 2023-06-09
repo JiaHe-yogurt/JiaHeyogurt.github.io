@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: aggregate-evaluation
     values:
-      layout: aggregate-evaluation
+      layout: single
       author_profile: true
       share: true
 
