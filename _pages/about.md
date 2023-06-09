@@ -13,6 +13,11 @@ Introduction
 Installation & Import
 ======
 
+<pre>
+pip install Package-name
+from Package-name import functions
+</pre>
+
 Getting started
 ======
 
@@ -21,13 +26,11 @@ Data Schema
 
 ### True label
 
-| Header1 | Header2 | Header3 |
+| TimeStamp | label | rootcause |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| 2023-03-29 00:56:00   | 0 | NaN   |
+| 2023-03-29 00:56:00   | 1 | Cpu pressure   |
+
 
 Parameters
 ------
