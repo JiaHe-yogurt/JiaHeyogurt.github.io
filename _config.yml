@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _root-cause-analysis
+   # _root-cause-analysis
   - scope:
       path: ""
       type: root-cause-analysis
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   _evaluation-metrics
+  # _evaluation-metrics
   - scope:
       path: ""
       type: evaluation-metrics
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-   _aggregate-evaluation
+  # _aggregate-evaluation
   - scope:
       path: ""
       type: aggregate-evaluation
