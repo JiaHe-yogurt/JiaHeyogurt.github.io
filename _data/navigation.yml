@@ -6,15 +6,13 @@ main:
   - title: "EVALUATION METRICS"
     url: /evaluationmetric/
     
+  - title: "ROOT CAUSE ANALYSIS"
+    url: /rootcauseanalysis/ 
+    
   - title: "AGGREGATE EVALUATION"
     url: /aggregateevaluation/
 
-  - title: "ROOT CAUSE ANALYSIS"
-    url: /rootcauseanalysis/
+
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
 
