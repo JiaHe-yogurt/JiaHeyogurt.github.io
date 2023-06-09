@@ -1,6 +1,6 @@
 ---
-permalink: /evaluationmetric/
-title: "Evaluation Metrics"
+permalink: /getting-started/
+title: "Getting Started"
 author_profile: true
 redirect_from: 
   - /md/
