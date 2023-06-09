@@ -8,8 +8,9 @@ main:
     
   - title: "ROOT CAUSE ANALYSIS"
     url: /markdown/
- 
-    
-  - title: "AGGREGATE EVALUATION"
+
+  - title: "CV"
     url: /cv/
-        
+    
+  - title: "Guide"
+    url: /markdown/
