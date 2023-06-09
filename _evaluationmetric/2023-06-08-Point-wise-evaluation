@@ -1,7 +1,7 @@
 ---
 title: "Point wise evaluation"
-collection: publications
-permalink: /publication/2023-06-08-Point-wise-evaluation
+collection: evaluationmetric
+permalink: /evaluationmetric/2023-06-08-Point-wise-evaluation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06-08
 #venue: 'Journal 1'
