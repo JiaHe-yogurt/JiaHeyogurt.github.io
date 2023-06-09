@@ -185,9 +185,9 @@ collections:
  # evaluation-metrics:
  #   output: true
  #   permalink: /:collection/:path/
-  aggregate-evaluation:
-    output: true
-    permalink: /:collection/:path/
+ # aggregate-evaluation:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -238,13 +238,13 @@ defaults:
   #    share: true
   #    comment: true
   # _aggregate-evaluation
-  - scope:
-      path: ""
-      type: aggregate-evaluation
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #    path: ""
+  #    type: aggregate-evaluation
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
