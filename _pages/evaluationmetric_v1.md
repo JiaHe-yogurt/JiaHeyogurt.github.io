@@ -13,6 +13,8 @@ Introduction
 ### Unadjusted
 [Point wise unadjusted](https://en.wikipedia.org/wiki/Precision_and_recall_)
 
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 ### Adjusted
 
 
