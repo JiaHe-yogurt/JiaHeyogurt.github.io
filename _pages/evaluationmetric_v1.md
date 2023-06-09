@@ -13,10 +13,14 @@ Introduction
 ### Unadjusted
 [Point wise unadjusted](https://en.wikipedia.org/wiki/Precision_and_recall_)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
 ### Adjusted
 
+|:--------     |:--:|--:|--:|--:|--:|
+| true label   | 0  | 0 | 0 | 1 | 1 |
+| predicted label   | 0  | 0 | 1| 1 | 1 |
+|-----------------------------|
 
 ## Segment Wise
 
