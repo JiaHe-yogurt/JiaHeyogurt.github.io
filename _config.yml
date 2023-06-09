@@ -179,7 +179,7 @@ collections:
   root-cause-analysis:
     output: true
     permalink: /:collection/:path/
-  getting_started:
+  evaluationmetric:
     output: true
     permalink: /:collection/:path/
  # evaluation-metrics:
@@ -210,15 +210,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _getting-started
-  - scope:
-      path: ""
-      type: getting-started
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  ## _getting-started
+  #- scope:
+  #    path: ""
+  #    type: getting-started
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
    # _root-cause-analysis
   - scope:
       path: ""
@@ -228,15 +228,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  ## _evaluation-metrics
-  #- scope:
-  #    path: ""
-  #    type: evaluation-metrics
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
+  # _evaluationmetric
+  - scope:
+      path: ""
+      type: evaluationmetric
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _aggregate-evaluation
   # - scope:
   #    path: ""
