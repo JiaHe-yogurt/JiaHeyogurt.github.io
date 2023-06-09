@@ -4,8 +4,11 @@ main:
     url: /getting-started/
 
   - title: "EVALUATION METRICS"
-    url: /evaluationmeteric/
-
+    url: /cv/
+    
+  - title: "ROOT CAUSE ANALYSIS"
+    url: /markdown/
+    
 #  - title: "ROOT CAUSE ANALYSIS"
 #    url: /root-cause-analysis/    
     
