@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anomaly Detection Model Evaluation"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Jia"
+name                     : &name "Jia He"
 description              : &description "personal description"
 url                      : https://jiahe-yogurt.github.io/JiaHeyogurt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "hejia@microsoft.com"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "hejia@microsoft.com"
   researchgate     :  
   uri              :
   bitbucket        :
