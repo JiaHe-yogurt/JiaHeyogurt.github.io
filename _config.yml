@@ -83,12 +83,12 @@ author:
   name             : "Anomaly Detection Model Evaluation"
   avatar           : "profile.png"
   bio              : "An open source python package"
-  location         : #"Location"
+  location         : 
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
