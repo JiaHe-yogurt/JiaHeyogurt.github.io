@@ -33,12 +33,6 @@ We define terms that we will use throughout the document.
 
 
 
-### Aggregate Evaluation
-* Micro/Macro scores. A list of dictionaries of independent evaluation results from the same model.
-
-  * result1 = {'TP': 1, 'FP': 1, 'FN': 0,  'precision': 0.5, 'recall': 1.0, 'F1': 0.667}
-
-  * result2 = {'TP': 1, 'FP': 1, 'FN': 1,  'precision': 0.5, 'recall': 0.5, 'F1': 0.5}
 
 
 ## Data Pre-Processing 
