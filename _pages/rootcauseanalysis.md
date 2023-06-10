@@ -19,7 +19,7 @@ P is configurable and should be no greater than the number of features.
 
 
 ## Data Schema
-* Anomaly contribution score for each predicted anomaly point. (pd.DataFrame)
+* To use the metric, we require you provide anomaly contribution score for each predicted anomaly point in pd.DataFrame.
 
 **Note!** `TimeStamp` is a required column name, but you can replace the rest column names with your own.
 
