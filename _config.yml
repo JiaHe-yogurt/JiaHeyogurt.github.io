@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anomaly Detection Model Evaluation"
 title_separator          : "-"
-name                     : &name "Author names go here"
+name                     : &name "Jia He"
 description              : &description "personal description"
 url                      : https://jiahe-yogurt.github.io/JiaHeyogurt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : 
-  bio              : "An open source python package"
+  bio              : "A python package for anomaly detection model evaluation"
   location         : 
   employer         :
   pubmed           : 
@@ -176,12 +176,12 @@ kramdown:
 
 # Collections
 collections:
-  root-cause-analysis:
-    output: true
-    permalink: /:collection/:path/
-  evaluationmetric:
-    output: true
-    permalink: /:collection/:path/
+#  root-cause-analysis:
+#    output: true
+#    permalink: /:collection/:path/
+#  evaluationmetric:
+ #   output: true
+ #   permalink: /:collection/:path/
  # evaluation-metrics:
  #   output: true
  #   permalink: /:collection/:path/
@@ -220,23 +220,23 @@ defaults:
   #    share: true
   #    comments: true
    # _root-cause-analysis
-  - scope:
-      path: ""
-      type: root-cause-analysis
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # - scope:
+ #     path: ""
+ #     type: root-cause-analysis
+ #   values:
+  #    layout: single
+ #     author_profile: true
+ #     share: true
+#      comments: true
   # _evaluationmetric
-  - scope:
-      path: ""
-      type: evaluationmetric
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+ #     path: ""
+#      type: evaluationmetric
+#    values:
+#      layout: single
+#      author_profile: true
+ #     share: true
+ #     comment: true
   # _aggregate-evaluation
   # - scope:
   #    path: ""
