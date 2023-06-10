@@ -69,16 +69,15 @@ Each evaluation metric may require different input. We examplify the input forma
   * result2 = {'TP': 1, 'FP': 1, 'FN': 1,  'precision': 0.5, 'recall': 0.5, 'F1': 0.5}
 
 
-## Configuration
-
-* Adjust_true_label (Bool): If your true label is not reliable, set this parameter to be `True` to tolerate ambiguous points.
-  * Ambiguous_tolerance (Int): If `Adjust_true_label` is set to `True`, then set the number of ambiguous points to be tolerated.
-* Adjust predicted label (Bool): If you accept detection delay/lagging (which is common in most applications), set this parameter to `True`.
-  * Alert delay tolerance (Int): Maximum tolerance for detection delay. 
-  * Alert lagging tolerance (Int): Maximum tolerance for FPs lagging that are continuation of TP
+## Data Pre-Processing 
+The start and end of an anomaly is often unclear, and when manually labelled, the labels might not
+be very reliable. As a remedy, you have the option to expand the start and end of an anomaly to tolerate ambiguous points.
+Two configurations associated with it are:
 
 
-$$\frac{a}{b}$$
+
+# Use the API
+We have an example notebook to help you get started
 
 
 
