@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anomaly-Detection-Model-Evaluation is a python package that provides a variaty of metrics to evaluate anomaly detection models."
+title: "Anomaly-Detection-Model-Evaluation"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
