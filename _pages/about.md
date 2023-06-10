@@ -21,7 +21,7 @@ from Package-name import functions
 
 # Getting started
 
-Anomaly-Detection-Model-Evaluation targets at evalutating models performance only, it requires true label and output from any model. You should use their own tool for model training. To use the metrics, you need to set some metric configurations, which will be introducted in the following section. 
+Anomaly-Detection-Model-Evaluation targets at evalutating models performance only, it requires true label and prediction from any model. You should use their own tool for model training. To use the metrics, you need to set some metric configurations, which will be introducted in the following section. 
 
 ## Terminology
 We define terms that we will use throughout the document.
