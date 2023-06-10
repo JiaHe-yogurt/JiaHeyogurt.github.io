@@ -33,17 +33,6 @@ We define terms that we will use throughout the document.
 
 
 
-### Root Cause Analysis
-* Anomaly contribution score for each predicted anomaly point. (pd.DataFrame)
-
-**Note!** `TimeStamp` is a required column name, but you can replace the rest column names with your own.
-
-| TimeStamp | Feature_1 | Feature_2 |
-|:--------|:-------:|-------:|
-| 2023-03-29 00:56:00   | 34 | 64|
-| 2023-03-29 00:56:00   | 12 |  88|
-
-
 ### Aggregate Evaluation
 * Micro/Macro scores. A list of dictionaries of independent evaluation results from the same model.
 
