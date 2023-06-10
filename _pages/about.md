@@ -24,7 +24,7 @@ from Package-name import functions
 Anomaly-Detection-Model-Evaluation targets at evalutating models performance only, it requires true label and prediction from any model. You should use their own tool for model training. To use the metrics, you need to set some metric configurations. 
 
 ## Terminology
-We define terms that we will use throughout the document.
+We define terms that we will use throughout the document. Definitions are partly borrowed from [here](https://learn.microsoft.com/en-us/legal/cognitive-services/anomaly-detector/ad-transparency-note).
 
 | Term | Definition |
 |:--------|:-------:|
