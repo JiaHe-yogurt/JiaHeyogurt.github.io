@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anomaly-Detection-Model-Evaluation"
+title: "Anomaly Detection Model Evaluation"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
