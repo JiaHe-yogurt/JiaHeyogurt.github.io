@@ -75,6 +75,10 @@ be very reliable. As a remedy, you have the option to expand the start and end o
 Two configurations associated with it are:
 
 
+* Adjust_true_label (Bool): If your true label is not reliable, set this parameter to be `True` to tolerate ambiguous points.
+* Ambiguous_tolerance (Int): If `Adjust_true_label` is set to `True`, then set the number of ambiguous points to be tolerated.
+
+
 
 # Use the API
 We have an example notebook to help you get started
