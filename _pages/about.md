@@ -28,8 +28,17 @@ We define terms that we will use throughout the document.
 
 | Term | Definition |
 |:--------|:-------:|
-| True Position (TP)  |   |
-| True Negative (TN)  |  |
+| True Position (TP)  | The system-detected anomaly correctly corresponds to an actual anomalous event.  |
+| True Negative (TN)  | The system correctly doesn't detect any anomaly when metrics data follows a historical pattern that is within the range of normal operations.|
+| False positive (FP)  | The system incorrectly detects an anomaly when there's no anomalous event.|
+|False negative (FN)  | The system fails to detect an anomaly when an anomalous event has occurred.|
+|False negative (FN)  | The system fails to detect an anomaly when an anomalous event has occurred.|
+|Precision  |Indicates how many detected anomalies correspond to actual abnormal events. A 
+                precision of 1.0 means that every anoamaly detected corresponds to an actual 
+                abnormal event. $Precision = \frac {TP}{TP+FP}$|
+|Recall  |Indicates how many actual anomaly events are detected. A recall score of 1.0 means that every actual anomaly event is detected. $Recall = \frac {TP}{TP+FN}$|                
+|F1  |Indicates model's balanced ability to both capture anomly events (recall) and be accurate 
+      with the cases it does capture (precision). $F1 =  2\frac {Precision* Recal}{Precision+ Recal}$|                
 
 
 
