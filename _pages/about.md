@@ -29,14 +29,14 @@ Data Schema
 Each evaluation metric may require different input. We examplify the input format for each metric here, and introduce metrics in detail in separate pages.
 
 * Point-wise/Segment-wise unadjusted/adjusted score
-### ** True label
+* True label
 
 | TimeStamp | label | rootcause |
 |:--------|:-------:|--------:|
 | 2023-03-29 00:56:00   | 0 | NaN   |
 | 2023-03-29 00:56:00   | 1 | Cpu pressure   |
 
-### ** Predicted label
+* Predicted label
 
 | TimeStamp | label | 
 |:--------|:-------:|
