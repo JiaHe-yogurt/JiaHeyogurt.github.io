@@ -21,6 +21,24 @@ useless. Furthermore, FPs that are continuation of TP  can also be tolerated if 
 We provide configurations to adjust predicted label based on these considerations.
 
 Overall, we provide both point-wise and segment-wise metric so you can choose the appropriate metric based on anoamly type. 
+## Data Schema
+------
+Each evaluation metric may require different input. We examplify the input format for each metric here, and introduce metrics in detail in separate pages.
+
+### Point-wise/Segment-wise unadjusted/adjusted score
+* True label (pd.DataFrame)
+
+| TimeStamp | label | rootcause |
+|:--------|:-------:|--------:|
+| 2023-03-29 00:56:00   | 0 | NaN   |
+| 2023-03-29 00:56:00   | 1 | Cpu pressure   |
+
+* Predicted label (pd.DataFrame)
+
+| TimeStamp | label | 
+|:--------|:-------:|
+| 2023-03-29 00:56:00   | 0 | 
+| 2023-03-29 00:56:00   | 1 |
 
 ## Point-Wise
 
