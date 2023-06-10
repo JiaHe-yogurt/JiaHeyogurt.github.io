@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anomaly Detection Model Evaluation"
+  name             : 
   avatar           : 
   bio              : "An open source python package"
   location         : 
